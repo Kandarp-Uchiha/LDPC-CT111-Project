@@ -1,0 +1,2 @@
+The soft BEC is written twice , once by Kandarp and once by me. Both codes work correctly , but my soft BEC takes a lot of time
+to run the big H matrices . So we have used Kandarp's code to plot graphs for soft BEC.
